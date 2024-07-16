@@ -22,9 +22,9 @@
             <i class="fab fa-instagram"></i>
             <i class="fab fa-linkedin"></i>
         </div>
-        <p>Founded by Jesse <i class="fa fa-heart-o"></i> Created by Frank</p>
+        <p>Founded by Kipkorir <i class="fa fa-heart-o"></i> Created by Jakin</p>
         <div class="container">
-            <p>&copy; 2024 Jesse. All rights reserved.</p>
+            <p>&copy; 2024 Kipkorir. All rights reserved.</p>
         </div>
     </section>
 
